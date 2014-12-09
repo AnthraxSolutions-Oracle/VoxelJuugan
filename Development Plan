@@ -1,0 +1,34 @@
+1. Engine:
+  - Movement
+  - Shooting
+  - Test Boss
+
+2. Boss 1:
+  - Convert to Test Boss
+  - Make Pattern Wrapper
+  - Make Bullet Wrapper
+  - Finalise/Polish
+  Note(Oracle): Hopefully publish-able as a demo at this point.
+  
+3. Menu:
+  - Start Menu
+  - Game Menu
+  - Level Select
+
+4. Boss 2:
+  - Convert from Shell
+  - Apply/Fix/Modify Wrappers
+  - Polish Level Select
+  - Polish Transitions
+  
+5. Extra:
+  - Music
+  - Graphical Polish
+  - Settings/Credits/Other Features
+  
+6. Bosses 3-X:
+  - Repeat Shell Conversion/Creation Process
+
+7. Test/Polish
+
+8. Extra Features?

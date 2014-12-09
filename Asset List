@@ -1,0 +1,42 @@
+Particle Engine:
+  - Background/Ambient
+  - Explosion
+  - Bullet Effects
+  - Scenery
+  
+Models:
+  - Background/Scenery
+  - Player
+  - Bullets
+  - Bosses
+  
+Music:
+  - Menu
+  - Ambient
+  - > 25% Boss HP
+  - < 25% Boss HP
+  
+GUI:
+  - Menu
+  - Start Menu
+  - Highscore Chart
+  - Ingame HUD
+  
+Scripts(Player):
+  - Moving
+  - Shooting
+  - Bullet Collision
+  
+Scripts(General):
+  - Menus(see GUI)
+  - Highscore
+  
+Scripts(Bosses):
+  Note(Oracle): 2 possible methods for creating bosses at this juncture. Either a shell that can be given all the attributes
+  of a boss but has movement and basic behaviours already imprinted, or hand-coding each boss individually. At this point,
+  hand-coding each boss is the way to go.
+
+Scripts(Bullet Wrapper):
+  - Forward Movement based on ROT
+  - ROT adjustment per pattern, passed from script
+  - Easy-Input pattern wrapper
